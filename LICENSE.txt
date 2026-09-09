@@ -1,0 +1,14 @@
+LOWELL NON-COMMERCIAL EVALUATION LICENSE v1.0
+
+Copyright (c) 2026 Lowell Team
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software WITHOUT RESTRICTION for PERSONAL, EDUCATIONAL, and TESTING purposes only.
+
+RESTRICTIONS:
+1. COMMERCIAL USE IS STRICTLY PROHIBITED without prior written consent from the author.
+2. PUBLIC DISTRIBUTION OF DERIVATIVE WORKS MUST BE NON-COMMERCIAL AND INCLUDE THIS LICENSE.
+3. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+
+For commercial licensing inquiries, contact: wallace201991443@gmail.com
